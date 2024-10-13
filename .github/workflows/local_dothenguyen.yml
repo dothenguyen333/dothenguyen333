@@ -53,4 +53,4 @@ jobs:
           app-name: 'dothenguyen'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0844EC38AFBA44EDA71128BFFCBEBC7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BFB88D9CCCF4703A3EC3B99A91C861B }}
